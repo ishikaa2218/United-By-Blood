@@ -24,7 +24,6 @@ Project Structure
 United-by-Blood/
 │── frontend/        # React frontend
 │── express/         # Express.js backend
-│── database/        # MySQL scripts (if applicable)
 │── .gitignore
 │── README.md
 
